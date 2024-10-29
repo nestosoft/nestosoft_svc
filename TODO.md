@@ -7,7 +7,6 @@ This is a spring boot application containing the different service APIs for the 
     - Build process: mvn -> jar artifact -> container -> container registry
     - Deployment process -> helm container
 
-
 # TODO:
  - add Load balancer to the cluster
 
